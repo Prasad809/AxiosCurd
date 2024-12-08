@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "address": [
+    {
+      "id": "2a13",
+      "name": "prasad",
+      "email": "raoprasad.amballa@gmail.com",
+      "phone": "8886093809"
+    },
+    {
+      "id": "02a3",
+      "name": "kalyani",
+      "email": "kalyanu@gmail.com",
+      "phone": "56593265465"
+    },
+    {
+      "id": "fde7",
+      "name": "premod",
+      "email": "raoprasad.amballa@gmail.com",
+      "phone": "08886093809"
+    }
+  ]
+}
